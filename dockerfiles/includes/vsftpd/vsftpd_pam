@@ -1,0 +1,2 @@
+auth required pam_pwdfile.so debug pwdfile=/etc/vsftpd/ftpusers.passwd
+account required pam_permit.so

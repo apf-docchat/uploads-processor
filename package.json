@@ -1,0 +1,9 @@
+{
+  "name": "pw-uploads-processor",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "celery-node": "^0.5.9",
+    "chokidar": "^4.0.1",
+    "uuid": "^10.0.0"
+  }
+}
